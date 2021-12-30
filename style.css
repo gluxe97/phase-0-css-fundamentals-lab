@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.container1 {
+  text-align: center;
+}
+nav a{
+  padding: 0,10px;
+  margin: auto;
+  background: grey;
+}
+.piccap {
+  font-size: 12px;
+}
+#featured-property p {
+  width: 800px;
+  margin: 25px auto;
+  text-align: center;
+}
+#details div {
+  float: left;
+  width: 25%;
+  background-color:brown;
+  text-align: center;
+}
